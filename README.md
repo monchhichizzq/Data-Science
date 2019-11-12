@@ -9,7 +9,7 @@
 
 ## Table of Contents
 
-- [Relational Databases](#Relational Databases)
+- [Relational Databases](#RD)
 - [Install](#install)
 - [Usage](#usage)
 	- [Generator](#generator)
