@@ -11,6 +11,7 @@
 
 - [Relational Databases](#RD)
 - [MySQL](#MySQL)
+- [MySQL]
 
 ### Relational Databases
 SQL is a language used to retriever data from specific types of databases called relational databases. Relational databases are the gold standard for
