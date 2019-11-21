@@ -12,7 +12,7 @@
 - [Relational Databases](#RD)
 - [MySQL](#MySQL)
 
-## Relational Databases
+### Relational Databases
 SQL is a language used to retriever data from specific types of databases called relational databases. Relational databases are the gold standard for
 data bases that store highly organized and structured business data. There are also nes classes of databases specifically designed for data that collected 
 in an extremely fast rate, such as GPS or biosensory data, or unstructed data taht does not fit well into highly prescribed formats, such as tweets and texts.
